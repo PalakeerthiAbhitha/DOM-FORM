@@ -1,0 +1,27 @@
+.form{
+    background-color: aquamarine;
+    padding:10px;
+    margin:10px;
+    border:4px black solid;
+    height: 450px;
+    width: 540px;
+}
+.submit_btn{
+    border:2px pink solid;
+    text-align: center;
+    margin-left:100px;
+    padding:10px
+}
+#Username {
+    margin-bottom:30px;
+   
+}
+#Email{
+    margin-bottom:30px;
+}
+#password{
+    margin-bottom:30px;
+}
+#confirm{
+    margin-bottom:30px;
+}
